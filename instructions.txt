@@ -1,0 +1,15 @@
+      Brick breaker Game: INSTRUCTIONS
+Buttons:
+1. P: pause the game    2. M: Main Menu
+3. E: Exit the game
+
+Levels:
+Bricks have different strength according to
+their respective colours.
+1. Violet brick breaks by only one hit.
+2. Blue brick breaks by two hits.
+3. Green brick breaks by three hits.
+4. Yellow brick breaks by four hits.
+5. Orange brick breaks by five hit.
+6. Red brick breaks by six hit.
+

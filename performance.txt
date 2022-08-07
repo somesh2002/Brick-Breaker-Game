@@ -1,0 +1,14 @@
+SUYASH : 21000
+Suyash : 500
+Somesh : 600
+suyash : 0
+ssm : 200
+ssm : 300
+arav : 200
+arav j : 100
+arav jadav : 300
+Somesh : 0
+name : 0
+name : 200
+name : 600
+Suyash : 300
